@@ -1,1 +1,5 @@
 Download this Github repository and open the notebook (with e.g. Jupyter). The notebook contains various commands to e.g. evaluate pretrained models.
+
+Our full model with PixelCNN++ prior is found in ssvae_pcnnpp.py
+
+The reference model with Gaussian prior is ssvae_reference.py
